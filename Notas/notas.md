@@ -311,7 +311,7 @@ Para llevar a la práctica un diagrama debemos ir más allá y darle detalle con
 
 Nota:
 
-Char(8) reserva 8 espacios en memoria de forma fija, Varchar(8) hace lo mismo pero crece (1,2,3...8) de manera dinámica conforme los requieres.
+Char(8) reserva 8 espacios en memoria de forma fija, Varchar(8) hace lo mismo pero crece (1,2,3...8) de manera dinámica conforme los requieres y tiene un limite general de 255 caracteres.
 
 #### Constraints (Restricciones)
 
