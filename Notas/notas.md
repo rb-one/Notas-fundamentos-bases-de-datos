@@ -199,6 +199,9 @@ b) El esquema lógico es el mismo independientemente de si la BD es distribuida 
 **Regla 12:** La regla de la no subversión.
 a) La base de datos no permitirá que exista un lenguaje o forma de acceso, que permita saltarse las reglas anteriores.
 
+![image](https://user-images.githubusercontent.com/114417877/196577914-49c6a91d-2f7f-4d34-8aca-15ce078e458f.png)
+
+
 ### Clase 4 Entidades y atributos
 
 Una **entidad** es algo similar a un objeto (programación orientada a objetos) y representa algo en el mundo real, incluso algo abstracto. Tienen atributos que son las cosas que los hacen ser una entidad, se diagraman dentro de cuadrados  y **por convención se ponen en plural**.
